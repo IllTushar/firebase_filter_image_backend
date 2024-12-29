@@ -1,0 +1,10 @@
+pillow
+fastapi
+moviepy
+firebase-admin
+uvicorn
+sqlalchemy
+pycairo
+python-multipart
+requests
+opencv-python
