@@ -6,4 +6,3 @@ uvicorn
 sqlalchemy
 python-multipart
 requests
-opencv-python
